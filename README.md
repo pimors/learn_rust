@@ -1,2 +1,2 @@
 # learn_rust
-This is just a repoitory with toy projects I do / did to learn rust.
+This is just a repository with toy projects I do / did to learn rust.
